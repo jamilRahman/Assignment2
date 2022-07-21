@@ -1,0 +1,81 @@
+
+.bannerimage{
+    width: 358px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    border-radius: 25px;
+}
+.ban3{
+    font-size: 33px;
+}
+.banner1{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.ban{
+    color: white;
+    text-decoration: none;
+    margin-left: 39px;
+    margin-right: 62px;
+}
+.b2{
+    padding-top: 52px;
+    width: 312px;
+    height: 262px;
+    margin-left: 33px;
+}
+
+/*------------------------------------PhotoGrid---------------------*/
+
+.photogrid{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.photo{
+    background-color: white;
+    margin-left: 55px;
+    padding-top: 0px;
+}
+
+.photogrid{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(1, 80px);
+}
+.grid1{
+    width: 312px;
+}
+.grid img{
+    width: 312px;
+}
+.photo1{
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #e1d6d6;
+}
+
+/*-------------------------------Footer---------------------*/
+
+.footer{
+    height: 800px;
+}
+.footer1{
+    padding-top: 86px;
+    font-size: 32px;
+}
+.padding{
+    display: grid;
+    padding-left: 46px;
+    grid-template-columns: repeat(1, 1fr);
+}
+.fool1{
+    margin-top: 26px;
+    text-align: center;
+    color: #8f8f8f;
+}
